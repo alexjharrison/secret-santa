@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Alex",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  },
+  {
+    "id": 2,
+    "name": "Allison",
+    "address": "22 Cliffwood Pl",
+    "email": "allisara@gmail.com",
+    "answers": [
+      "Amazon, Kohls, the Loft",
+      "Chocolate,  popcorn",
+      "Tea",
+      "Roller derby, reading",
+      "Can't think of anything",
+      [
+        "Food",
+        "Cooking",
+        "Movies",
+        "Unusual",
+        "Pets",
+        "Reading",
+        "Funny",
+        "Gadgets"
+      ]
+    ],
+    "disincludes": [1]
+  },
+  {
+    "id": 3,
+    "name": "Amanda",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  },
+  {
+    "id": 4,
+    "name": "Carol",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  },
+  {
+    "id": 5,
+    "name": "Doug",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  },
+  {
+    "id": 6,
+    "name": "Gigi",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  },
+  {
+    "id": 7,
+    "name": "Linda",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  },
+  {
+    "id": 8,
+    "name": "Mario",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  },
+  {
+    "id": 9,
+    "name": "Michael",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  },
+  {
+    "id": 10,
+    "name": "Steph",
+    "address": null,
+    "email": null,
+    "answers": [],
+    "disincludes": null
+  }
+]
